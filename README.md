@@ -206,7 +206,7 @@ Confusion matrix şu değerleri gösterir:
 Repository’yi bilgisayarınıza indirin:
 
 ```bash
-git clone REPOSITORY_LINKINIZ
+git clone https://github.com/imend35/musteri-ayrilma-tahmini-ml/tree/main
 ```
 
 Proje klasörüne geçin:
